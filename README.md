@@ -4,6 +4,14 @@
 
 > 本项目不预测爆款，不把搜索关注度解释为销量，也不把 AI 合成研究表述为真实用户验证。输出是概念与 Listing 草稿，不是生产级设计稿。
 
+## 赛事状态
+
+- 2026-07-14：初赛 Idea 在线表单已由参赛人确认提交。
+- 命题场景：AI智能上新。
+- 提交阶段：已有 Demo 原型；尚未进行真实百炼 API 测试。
+- 公开仓库：<https://github.com/Dally-bee/CNail>
+- 提交记录与材料校验：`docs/initial-round-submission-record-v1.md`
+
 ## 本地运行
 
 ```bash
@@ -42,6 +50,7 @@ git diff --check
 
 - `docs/idea-submission-v1.md`：初赛 Idea 提交稿
 - `docs/initial-round-form-v1.md`：初赛在线表单十项逐字段稿
+- `docs/initial-round-submission-record-v1.md`：初赛提交状态与附加材料校验记录
 - `docs/synthetic-research-method-v1.md`：12+5 合成研究方法与偏见审计
 - `docs/demo-script-v1.md`：4 分钟主演示脚本
 - `src/data/evidence.v1.json`：首批趋势与文化证据快照
