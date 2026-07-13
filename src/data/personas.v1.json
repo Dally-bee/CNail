@@ -1,0 +1,19 @@
+[
+  {"id":"USC-01","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"校园派对尝鲜者","profile":"18–24，南加州都会区，预算 USD 8–15，偏短方圆/中杏仁与社媒视觉","goals":["显眼","易佩戴","照片效果"],"constraints":["拒绝血腥写实","拒绝过长甲片"],"culturalNotes":["不把亡灵节符号当普通恐怖装饰"]},
+  {"id":"USC-02","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"编辑感哥特通勤者","profile":"25–34，纽约都会区，预算 USD 15–28，偏极简黑银与短杏仁","goals":["精致度","跨场景搭配"],"constraints":["拒绝廉价塑料感","拒绝夸张 Listing"],"culturalNotes":["偏好清晰语境"]},
+  {"id":"USC-03","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"低调季节型家庭用户","profile":"35–44，中西部郊区，预算 USD 10–18，偏短圆","goals":["舒适","易拆卸"],"constraints":["照顾日常事务","拒绝锋利长甲"],"culturalNotes":["偏好场景友好表达"]},
+  {"id":"USC-04","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"朋克 DIY 表达者","profile":"18–24，太平洋西北，预算 USD 12–22，偏不对称中长棺形","goals":["独特","非模板化"],"constraints":["环保信息需清楚","拒绝单一化哥特"],"culturalNotes":["哥特不等于全黑骷髅"]},
+  {"id":"USC-05","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"纪念语境熟悉者","profile":"25–34，得州都会区，墨西哥裔美国文化背景，预算 USD 14–25","goals":["纪念意义","家庭语境","细腻花卉"],"constraints":["拒绝恐怖化","拒绝祭坛元素商品化"],"culturalNotes":["单一模拟角色不能代表所有墨西哥裔消费者"]},
+  {"id":"USC-06","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"文化来源审慎者","profile":"35–44，美国西南，预算 USD 16–30，偏精细手绘","goals":["来源透明","语境说明"],"constraints":["不确定时退回一般哥特方案"],"culturalNotes":["不随意挪用家庭纪念符号"]},
+  {"id":"USC-07","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"成熟低饱和用户","profile":"45–54，新英格兰小城市，预算 USD 18–30，偏短椭圆","goals":["品质","合适长度"],"constraints":["拒绝复杂安装","拒绝荧光堆叠"],"culturalNotes":["需要克制语境"]},
+  {"id":"USC-08","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"高频穿戴甲买家","profile":"25–34，美国东南，预算 USD 12–24，偏中长杏仁/棺形","goals":["套装完整","视觉冲击"],"constraints":["尺寸覆盖","主图预期一致"],"culturalNotes":["主题要写清"]},
+  {"id":"USC-09","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"预算敏感新手","profile":"18–24，山地州大学城，预算 USD 6–12，偏短方形","goals":["低门槛","快速移除"],"constraints":["不使用专业工具","无隐藏成本"],"culturalNotes":["文化信息需易理解"]},
+  {"id":"USC-10","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"创意行业收藏者","profile":"35–44，芝加哥都会区，预算 USD 20–35，偏超现实骨骼与金属细节","goals":["原创构图","高级材质感"],"constraints":["拒绝素材拼贴","拒绝爆款话术"],"culturalNotes":["关注符号出处"]},
+  {"id":"USC-11","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"高频手部工作者","profile":"25–34，中西部城市，预算 USD 10–18，偏超短圆","goals":["不妨碍工作","低损伤拆卸"],"constraints":["拒绝长尖甲","需要耐用性边界"],"culturalNotes":["暗色审美不等于节庆用户"]},
+  {"id":"USC-12","simulationLabel":"AI_SIMULATION","side":"US_CONSUMER","roleName":"非核心审美礼赠者","profile":"45–54，佛罗里达都会区，预算 USD 15–27，重视包装与尺码","goals":["礼赠感","场景清晰"],"constraints":["拒绝冒犯年龄标签","拒绝语境含糊"],"culturalNotes":["需要可判断的适用场景"]},
+  {"id":"CNS-01","simulationLabel":"AI_SIMULATION","side":"CN_SELLER","roleName":"华南新手小团队","profile":"1–2 人，Amazon US 不足 1 年，目标售价 USD 9.99–15.99","goals":["低 MOQ","快速打样","清晰 Listing"],"constraints":["合规禁词","拒绝高模具成本"],"culturalNotes":["拒绝无证据爆款承诺"]},
+  {"id":"CNS-02","simulationLabel":"AI_SIMULATION","side":"CN_SELLER","roleName":"义乌快反团队","profile":"3–5 人，多款快测，目标售价 USD 7.99–13.99","goals":["款式复用","交期","单位成本"],"constraints":["容易过追视觉热点"],"culturalNotes":["强制展示亡灵节文化风险"]},
+  {"id":"CNS-03","simulationLabel":"AI_SIMULATION","side":"CN_SELLER","roleName":"深圳品牌化团队","profile":"6–12 人，Amazon 3 年以上，目标售价 USD 16.99–29.99","goals":["差异化","证据追溯","A/B 测试"],"constraints":["版权来源","退货风险"],"culturalNotes":["文化结论必须可复核"]},
+  {"id":"CNS-04","simulationLabel":"AI_SIMULATION","side":"CN_SELLER","roleName":"长三角工贸团队","profile":"10 人以上，有稳定甲片供应，目标售价 USD 12.99–22.99","goals":["量产复杂度","质量一致性"],"constraints":["包装周期","工艺限制"],"culturalNotes":["概念图不等于可制造稿"]},
+  {"id":"CNS-05","simulationLabel":"AI_SIMULATION","side":"CN_SELLER","roleName":"跨类目学习团队","profile":"2–4 人，从其他类目扩展，目标售价 USD 11.99–19.99","goals":["选款依据","英文语境","执行清单"],"constraints":["拒绝术语堆叠","拒绝来源不明"],"culturalNotes":["合成反馈不能冒充需求验证"]}
+]

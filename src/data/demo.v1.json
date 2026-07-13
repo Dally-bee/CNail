@@ -1,0 +1,61 @@
+{
+  "opportunity": {
+    "id": "OP-SKULL-Q4-2026",
+    "title": "骷髅符号的三语境穿戴甲机会",
+    "market": "US",
+    "category": "press-on-nails",
+    "season": "2026-Q4",
+    "contextIds": ["halloween-party", "everyday-goth", "dia-de-muertos"],
+    "evidenceIds": ["EV-US-HALLOWEEN-2025-PARTICIPATION", "EV-PINTEREST-2026-VAMP-ROMANTIC", "EV-SI-DODM-NOT-HALLOWEEN"],
+    "rationale": ["节庆装扮提供明确测试场景", "日常哥特提供跨季延展", "文化边界本身可转化为卖家决策护栏"],
+    "uncertainties": ["没有穿戴甲销量证明", "2026 Amazon US 表现仍需真实小规模测试"],
+    "status": "selected"
+  },
+  "contexts": [
+    {
+      "id": "halloween-party",
+      "name": "万圣节派对",
+      "meaning": "短周期、高可见度的装扮与社交场景。",
+      "audienceSituations": ["派对", "校园活动", "社媒拍照"],
+      "appropriateUses": ["戏剧性对比", "通用骷髅", "夜间可见细节"],
+      "avoidances": ["把意向调查写成销量", "无依据的爆款承诺"],
+      "sensitivityNotes": ["不得借用亡灵节名称为普通恐怖设计背书"],
+      "evidenceIds": ["EV-US-HALLOWEEN-2025-PARTICIPATION", "EV-US-HALLOWEEN-2025-DISCOVERY"]
+    },
+    {
+      "id": "everyday-goth",
+      "name": "日常哥特",
+      "meaning": "暗黑浪漫、个人表达与可跨季搭配，而非只有血腥和恐怖。",
+      "audienceSituations": ["通勤外出", "演出", "日常造型"],
+      "appropriateUses": ["黑莓酒红", "骨白线稿", "银色与蕾丝感"],
+      "avoidances": ["把哥特简化成全黑骷髅", "复制受保护角色"],
+      "sensitivityNotes": ["memento mori 与亡灵节不是同一文化语境"],
+      "evidenceIds": ["EV-PINTEREST-2026-VAMP-ROMANTIC", "EV-ETSY-2025-GOTHMAS", "EV-FIT-GOTHIC-FASHION-GRAMMAR"]
+    },
+    {
+      "id": "dia-de-muertos",
+      "name": "亡灵节相关纪念语境",
+      "meaning": "与逝者纪念、家庭、生命循环和具体文化传统相关的敏感语境。",
+      "audienceSituations": ["家庭纪念", "社群文化活动", "文化教育"],
+      "appropriateUses": ["先解释来源与语义", "原创且克制的构图", "文化人工复核"],
+      "avoidances": ["Mexican Halloween", "spooky fiesta", "血迹腐尸", "挪用祭坛或真实逝者图像"],
+      "sensitivityNotes": ["若只用通用骷髅，应标为 gothic/skull，不借亡灵节营销"],
+      "evidenceIds": ["EV-SI-DODM-NOT-HALLOWEEN", "EV-SAAM-CALAVERA-US-HISTORY"]
+    }
+  ],
+  "concept": {
+    "id": "CP-MIDNIGHT-RELIC-01",
+    "opportunityId": "OP-SKULL-Q4-2026",
+    "name": "Midnight Relic / 午夜遗迹",
+    "audience": "偏好克制暗黑风、重视日常可穿戴性的 Amazon US 成年消费者",
+    "occasion": "万圣节派对与日常哥特造型；不作为亡灵节商品",
+    "palette": ["烟黑", "骨白", "氧化银", "黑莓酒红"],
+    "motifs": ["原创骨骼线稿", "微型星芒", "断裂拱窗"],
+    "finishes": ["高光烟黑", "局部银铬", "半透明酒红"],
+    "avoid": ["血腥写实", "祭坛元素", "La Catrina 直接挪用", "受保护角色"],
+    "culturalGuardrails": ["明确归类日常哥特", "不借亡灵节名称营销", "所有文化与合规声明需人工复核"],
+    "testPlan": ["短杏仁与中棺形两款打样假设", "人工筛选后做小批测试", "验证尺寸、色差、附着与退货风险"],
+    "evidenceIds": ["EV-PINTEREST-2026-VAMP-ROMANTIC", "EV-ETSY-2025-GOTHMAS", "EV-FIT-GOTHIC-FASHION-GRAMMAR"],
+    "disclaimer": "商品概念套装，仅供人工选款与打样；不是生产级设计稿或销量预测。"
+  }
+}
